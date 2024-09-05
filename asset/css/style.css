@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(../image/background.png);
+    background-image: url(/asset/image/background.png);
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
 
